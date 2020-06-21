@@ -1,2 +1,2 @@
-# beginner.github.io
+# http://beginner.github.io
 Publicar atividades de aprendizado de aplicação web.
